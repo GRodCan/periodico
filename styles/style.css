@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+   position: absolute;
+   columns: 2;
+}
+article{
+    position: relative;
+    
+    background-color: blanchedalmond;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    margin: 3px;
+    padding: 3px;
+    text-align: justify;
+}
